@@ -17,7 +17,7 @@
 
 ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RX90&theme=chartreuse-dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RX90&theme=chartreuse-dark&layout=compact&hide=Makefile)
 
 ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦
 
