@@ -1,10 +1,6 @@
 <div align="center">
 
-<h1 style="font-size: 48px; font-weight: bold; text-align: center; font-family: Arial, sans-serif;">
-  <span style="background: linear-gradient(90deg, #222, #555); -webkit-background-clip: text; color: transparent;">
-    RX90
-  </span>
-</h1>
+# **RX90**
 
 ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦
 
