@@ -9,7 +9,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/RX90/Todo-App">
-          <img src="todoapp-switch.svg" width="200">
+          <img src="todoapp.png" width="200">
         </a>
       </td>
     </tr>
