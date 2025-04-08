@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .light { display: none; }
+      .dark { display: inline; }
+    }
+    @media (prefers-color-scheme: light) {
+      .dark { display: none; }
+      .light { display: inline; }
+    }
+  </style>
+  <image href="todoapp2.png" class="light" x="0" y="0" width="200" height="200"/>
+  <image href="todoapp.png" class="dark" x="0" y="0" width="200" height="200"/>
+</svg>
